@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning AWS Cloud, DevOps, Svenska
 - 💬 Ask me about IT Audit, IT system controls, Cyber Security
-- 📫 How to reach me: lydia.cao26@outlook.com
+- 📫 How to reach me: https://lilycomeon.github.io/
 - :sparkles:Langages: English (Fluent), Mandarin Chinese (Native)
 
 
