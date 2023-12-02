@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi there 👋, I'm Lin!
+### Information Security Student, Former IT Auditor
+
+- 🌱 I’m currently learning AWS Cloud, DevOps, Svenska
+- 💬 Ask me about IT Audit, IT system controls, Cyber Security
+- 📫 How to reach me: lydia.cao26@outlook.com
+- :sparkles:Langages: English (Fluent), Mandarin Chinese (Native)
+
+
 
 <!--
 **Lilycomeon/Lilycomeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
